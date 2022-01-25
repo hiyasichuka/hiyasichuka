@@ -1,11 +1,8 @@
-# Hello 👋 こんにちは
-
-# My Qiita posts
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/hiyasichuka/posts.svg)](http://qiita.com/hiyasichuka)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hiyasichuka/contributions.svg)](http://qiita.com/hiyasichuka)[![My Qiita followers](https://qiita-badge.apiapi.app/s/hiyasichuka/followers.svg)](http://qiita.com/hiyasichuka)
+# About 👋 hiyasichuka
 
 <div align="center">
-
+ 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/hiyasichuka/posts.svg)](http://qiita.com/hiyasichuka) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hiyasichuka/contributions.svg)](http://qiita.com/hiyasichuka) [![My Qiita followers](https://qiita-badge.apiapi.app/s/hiyasichuka/followers.svg)](http://qiita.com/hiyasichuka)
 [![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
