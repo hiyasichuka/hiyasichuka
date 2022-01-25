@@ -6,11 +6,11 @@
 [![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiyasichuka)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiyasichuka)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
 <a href="https://twitter.com/takaha4k"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
