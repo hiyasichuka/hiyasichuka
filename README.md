@@ -2,15 +2,7 @@
 
 # My Qiita posts
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/hiyasichuka/posts.svg)](http://qiita.com/hiyasichuka)
-
-# My Qiita contributions
-
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hiyasichuka/contributions.svg)](http://qiita.com/hiyasichuka)
-
-# My Qiita followers
-
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/hiyasichuka/followers.svg)](http://qiita.com/hiyasichuka)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/hiyasichuka/posts.svg)](http://qiita.com/hiyasichuka)[![My Qiita contributions](https://qiita-badge.apiapi.app/s/hiyasichuka/contributions.svg)](http://qiita.com/hiyasichuka)[![My Qiita followers](https://qiita-badge.apiapi.app/s/hiyasichuka/followers.svg)](http://qiita.com/hiyasichuka)
 
 <div align="center">
 
