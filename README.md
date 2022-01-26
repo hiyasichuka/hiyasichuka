@@ -4,9 +4,12 @@
 
  <hr size=1/>
  
-[![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ 
+<hr size=1/>
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiyasichuka)](https://github.com/ryo-ma/github-profile-trophy)
 
  <hr size=2/>
