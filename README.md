@@ -47,4 +47,5 @@ I'm a Developer From Conepla and Asahikasei.
   <a href="mailto:hiyasichukahajimemasita@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-</div>
+---
+<div align="center"> <img src="https://profile-counter.glitch.me/Gt/count.svg?"  /> </div>
