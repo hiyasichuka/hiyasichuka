@@ -1,3 +1,9 @@
+# 👋 Hi there, I'm Kei
+A Developer From Conepla
+
+![GitHub Snake Light](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <div align="center">
  
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hiyasichuka/posts.svg)](http://qiita.com/hiyasichuka) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hiyasichuka/contributions.svg)](http://qiita.com/hiyasichuka) [![My Qiita followers](https://qiita-badge.apiapi.app/s/hiyasichuka/followers.svg)](http://qiita.com/hiyasichuka)
