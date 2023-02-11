@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Kei
 
-![GitHub Snake Light](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake.svg)
 
 # 💫 About Me:
 - 🖥️ MacBook Pro (13-inch, 2020)
