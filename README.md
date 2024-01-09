@@ -1,5 +1,6 @@
-# 👋 Hi there, I'm Kei
+<img align="center" width="1640" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format)" alt="hero" />
 
+# 👋 Hi there, I'm Kei
 ![GitHub Snake Light](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
@@ -24,6 +25,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+# <img src="https://github.com/hiyasichuka/hiyasichuka/assets/52185395/be0623c6-f4f9-4384-b5b9-9fb113f01257" width="3%"> Zenn Stats:
+
+ 
+[![Likes](https://badgen.org/img/zenn/takaha4k/likes?style=plastic)](https://zenn.dev/takaha4k) [![Articles](https://badgen.org/img/zenn/takaha4k/articles?style=plastic)](https://zenn.dev/takaha4k) [![Scraps](https://badgen.org/img/zenn/takaha4k/scraps?style=plastic)](https://zenn.dev/takaha4k?tab=scraps)
 
 # 🐸 Qiita Stats:
  
