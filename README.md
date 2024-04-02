@@ -13,8 +13,8 @@ Flutter
 
 ## フレームワーク
 
-Vue.js | Nuxt.js | NestJS
-Bootstrap｜TailwindCSS
+Vue.js 2x 3x | Nuxt.js | NestJS｜
+Bootstrap｜Tailwind CSS｜
 React.js | Next.js | .NET Framework｜
 Fasitify | Express｜FastAPI｜
 OpenAPI｜Prisma｜TypeORM｜Postgrest｜
