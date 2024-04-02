@@ -7,28 +7,28 @@
 
 ## 言語
 
-TypeScript | JavaScript | Python
-Kotolin | VB.NET | VBA | C# | Java
+TypeScript | JavaScript | Python｜
+Kotolin | VB.NET | VBA | C# | Java｜
 Flutter
 
 ## フレームワーク
 
 Vue.js | Nuxt.js | NestJS
 Bootstrap｜TailwindCSS
-React.js | Next.js | .NET Framework
-Fasitify | Express｜FastAPI｜Django
-OpenAPI｜Prisma｜TypeORM｜Postgrest
+React.js | Next.js | .NET Framework｜
+Fasitify | Express｜FastAPI｜
+OpenAPI｜Prisma｜TypeORM｜Postgrest｜
 Xamarin.forms
 
 ## テスト、CICDなど
 
-ESLint｜Prettier｜pep8｜black
-jest｜pytest
+ESLint｜Prettier｜pep8｜black｜
+jest｜pytest｜
 GitHub Actions ｜ Circle CI
 
 ## データベースなど
 
-Oracle | SQL Server | MySQL
+Oracle | SQL Server | MySQL｜
 PostgreSQL｜DynamoDB｜ mongoDB | Redis
 
 ## BI
@@ -37,29 +37,29 @@ Tableau｜QuickSight｜Looker
 
 ## AI、機械学習など
 
-Tensorflow | Keras | Pytorch | OpenCV
+Tensorflow | Keras | Pytorch | OpenCV｜
 Optuna｜CUDA | cuDNN
 
 ## クラウド
 
 ### AWS
 
-VPC | S3 | EBS | EFS |API Gateway | Lambda | ELB
-EC2 | ECS | Fargate | IAM | Cognito
-CoudWatch | AppRunner
+VPC | S3 | EBS | EFS |API Gateway | Lambda | ELB｜
+EC2 | ECS | Fargate | IAM | Cognito｜
+CoudWatch | AppRunner｜
 CostExplorer | CloudTrail
 
 
 ### GCP
 
-VPC | GCS | CloudFunctions | Cloud Run
-CloudSQL | BigQuery | Dataflow | Composer
+VPC | GCS | CloudFunctions | Cloud Run｜
+CloudSQL | BigQuery | Dataflow | Composer｜
 Stackdriver | Firebase
 
 ### Azure
 
-VPC | BlobStorage | Repos | Monitor
-Azure SQL Database | Azure AD
+VPC | BlobStorage | Repos | Monitor｜
+Azure SQL Database | Azure AD｜
 Azure Pipline | Container Apps | AppService
 
 ### SAP
@@ -69,25 +69,25 @@ Analytics Cloud | Datawarehouse | Data Provisioning Agent
 
 ### SaaS/PaaS
 
-GitHub | GitHub Actions | BitBucket | Heroku | Hasura
+GitHub | GitHub Actions | BitBucket | Heroku | Hasura｜
 Tableau Online
 
 ## 資格
 
-基本情報技術者 | 応用情報技術者 | TOEIC 815
-技術士補（情報工学）| Licenced Scrum Master
-Licenced Scrum Product Owner
-GoogleCloud Professional Data Engineer
-GoogleCloud Professional Cloud Developer
-AWS Solutions Architect - Associate
-AWS Developer - Associate
+基本情報技術者 | 応用情報技術者 | TOEIC 815｜
+技術士補（情報工学）| Licenced Scrum Master｜
+Licenced Scrum Product Owner｜
+GoogleCloud Professional Data Engineer｜
+GoogleCloud Professional Cloud Developer｜
+AWS Solutions Architect - Associate｜
+AWS Developer - Associate｜
 AWS SysOps Administrator - Associate
 
 ## その他
 
-WordPress | nginx | IIS | Tomcat
-Docker | Docker Swarm | kubernetes｜OpenShift
-Ghost Content API | Streamlit | OpenCV
+WordPress | nginx | IIS | Tomcat｜
+Docker | Docker Swarm | kubernetes｜OpenShift｜
+Ghost Content API | Streamlit | OpenCV｜
 Google Analytics
 
 
