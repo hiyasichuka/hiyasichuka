@@ -1,29 +1,95 @@
 <img align="center" width="1640" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format)" alt="hero" />
 
-# 👋 Hi there, I'm Kei
 ![GitHub Snake Light](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-# 💫 About Me:
-- 🖥️ MacBook Pro (13-inch, 2020)
-- 👅 Languages: Japanese (Native), English (B2)
-- 🎾 Captain of company tennis team
-
 # 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 言語
+
+TypeScript | JavaScript | Python
+Kotolin | VB.NET | VBA | C# | Java
+Flutter
+
+## フレームワーク
+
+Vue.js | Nuxt.js | NestJS
+Bootstrap｜TailwindCSS
+React.js | Next.js | .NET Framework
+Fasitify | Express｜FastAPI｜Django
+OpenAPI｜Prisma｜TypeORM｜Postgrest
+Xamarin.forms
+
+## テスト、CICDなど
+
+ESLint｜Prettier｜pep8｜black
+jest｜pytest
+GitHub Actions ｜ Circle CI
+
+## データベースなど
+
+Oracle | SQL Server | MySQL
+PostgreSQL｜DynamoDB｜ mongoDB | Redis
+
+## BI
+
+Tableau｜QuickSight｜Looker
+
+## AI、機械学習など
+
+Tensorflow | Keras | Pytorch | OpenCV
+Optuna｜CUDA | cuDNN
+
+## クラウド
+
+### AWS
+
+VPC | S3 | EBS | EFS |API Gateway | Lambda | ELB
+EC2 | ECS | Fargate | IAM | Cognito
+CoudWatch | AppRunner
+CostExplorer | CloudTrail
+
+
+### GCP
+
+VPC | GCS | CloudFunctions | Cloud Run
+CloudSQL | BigQuery | Dataflow | Composer
+Stackdriver | Firebase
+
+### Azure
+
+VPC | BlobStorage | Repos | Monitor
+Azure SQL Database | Azure AD
+Azure Pipline | Container Apps | AppService
+
+### SAP
+
+Analytics Cloud | Datawarehouse | Data Provisioning Agent
+
+
+### SaaS/PaaS
+
+GitHub | GitHub Actions | BitBucket | Heroku | Hasura
+Tableau Online
+
+## 資格
+
+基本情報技術者 | 応用情報技術者 | TOEIC 815
+技術士補（情報工学）| Licenced Scrum Master
+Licenced Scrum Product Owner
+GoogleCloud Professional Data Engineer
+GoogleCloud Professional Cloud Developer
+AWS Solutions Architect - Associate
+AWS Developer - Associate
+AWS SysOps Administrator - Associate
+
+## その他
+
+WordPress | nginx | IIS | Tomcat
+Docker | Docker Swarm | kubernetes｜OpenShift
+Ghost Content API | Streamlit | OpenCV
+Google Analytics
+
 
 
 # <img src="https://github.com/hiyasichuka/hiyasichuka/assets/52185395/be0623c6-f4f9-4384-b5b9-9fb113f01257" width="3%"> Zenn Stats:
