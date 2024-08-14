@@ -9,7 +9,7 @@
 
 TypeScript ｜ JavaScript ｜ Python｜
 Kotolin ｜ VB.NET ｜ VBA ｜ C# ｜ Java｜
-Flutter
+Flutter ｜ GAS
 
 ## フレームワーク
 
@@ -37,7 +37,7 @@ Tableau｜QuickSight｜Looker
 
 ## AI、機械学習など
 
-Tensorflow ｜ Keras ｜ Pytorch ｜ OpenCV｜
+Dify Cloud ｜ Tensorflow ｜ Keras ｜ Pytorch ｜ OpenCV｜
 Optuna｜CUDA ｜ cuDNN
 
 ## クラウド
