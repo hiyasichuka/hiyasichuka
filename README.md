@@ -1,5 +1,4 @@
-<img align="center" width="1640" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format)" alt="hero" />
-
+# 🐍 GitHub Snake:
 ![GitHub Snake Light](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
