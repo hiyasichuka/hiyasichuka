@@ -1,16 +1,16 @@
-# 🐍 GitHub Snake:
+# 🐍 GitHub Snake
 ![GitHub Snake Light](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-## 言語
+## Programming Languages
 
 TypeScript ｜ JavaScript ｜ Python｜
 Kotolin ｜ VB.NET ｜ VBA ｜ C# ｜ Java｜
 Flutter ｜ GAS
 
-## フレームワーク
+## Library etc.
 
 Vue.js 2x 3x ｜ Nuxt.js ｜ NestJS｜
 Bootstrap｜Tailwind CSS｜
@@ -19,13 +19,13 @@ Fasitify ｜ Express｜FastAPI｜
 OpenAPI｜Prisma｜TypeORM｜Postgrest｜
 Xamarin.forms
 
-## テスト、CICDなど
+## Test CICD etc.
 
 ESLint｜Prettier｜pep8｜black｜
 jest｜pytest｜
 GitHub Actions ｜ Circle CI
 
-## データベースなど
+## DataStore etc.
 
 Oracle ｜ SQL Server ｜ MySQL｜
 PostgreSQL｜DynamoDB｜ mongoDB ｜ Redis
@@ -34,12 +34,12 @@ PostgreSQL｜DynamoDB｜ mongoDB ｜ Redis
 
 Tableau｜QuickSight｜Looker
 
-## AI、機械学習など
+## Machine learning etc.
 
 Dify Cloud ｜ Tensorflow ｜ Keras ｜ Pytorch ｜ OpenCV｜
 Optuna｜CUDA ｜ cuDNN
 
-## クラウド
+## Infrastructure
 
 ### AWS
 
@@ -71,7 +71,7 @@ Analytics Cloud ｜ Datawarehouse ｜ Data Provisioning Agent
 GitHub ｜ GitHub Actions ｜ BitBucket ｜ Heroku ｜ Hasura｜
 Tableau Server/Online
 
-## 資格
+## Certifications
 
 基本情報技術者 ｜ 応用情報技術者 ｜ TOEIC 815｜
 技術士補（情報工学）｜ Licenced Scrum Master｜
@@ -82,7 +82,7 @@ AWS Solutions Architect - Associate｜
 AWS Developer - Associate｜
 AWS SysOps Administrator - Associate
 
-## その他
+## Others
 
 WordPress ｜ nginx ｜ IIS ｜ Tomcat｜
 Docker ｜ Docker Swarm ｜ kubernetes｜OpenShift｜
@@ -96,11 +96,11 @@ Google Analytics
  
 [![Likes](https://badgen.org/img/zenn/takaha4k/likes?style=plastic)](https://zenn.dev/takaha4k) [![Articles](https://badgen.org/img/zenn/takaha4k/articles?style=plastic)](https://zenn.dev/takaha4k) [![Scraps](https://badgen.org/img/zenn/takaha4k/scraps?style=plastic)](https://zenn.dev/takaha4k?tab=scraps)
 
-# 🐸 Qiita Stats:
+# 🐸 Qiita Stats
  
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hiyasichuka/posts.svg)](http://qiita.com/hiyasichuka) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hiyasichuka/contributions.svg)](http://qiita.com/hiyasichuka) [![My Qiita followers](https://qiita-badge.apiapi.app/s/hiyasichuka/followers.svg)](http://qiita.com/hiyasichuka)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 [![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -109,7 +109,7 @@ Google Analytics
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiyasichuka)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-# 📫 Contact:
+# 📫 Contact
 
 <a href="https://twitter.com/takaha4k"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/takaha4k/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
