@@ -13,7 +13,7 @@ Flutter ｜ Google Apps Script
 ## Library etc.
 
 Vue.js 2x 3x ｜ Nuxt.js 2x 3x ｜ NestJS 7x 8x 9x｜
-Bootstrap｜Tailwind CSS｜shadcn/ui
+Bootstrap｜Tailwind CSS｜shadcn/ui｜
 React.js ｜ Next.js ｜ .NET Framework｜
 Fasitify ｜ Express｜FastAPI｜
 OpenAPI｜Prisma｜TypeORM｜Postgrest｜
@@ -27,7 +27,7 @@ GitHub Actions ｜ Circle CI
 
 ## DataStore etc.
 
-BigQuery | Oracle ｜ SQL Server ｜ MySQL｜
+BigQuery｜Oracle ｜ SQL Server ｜ MySQL｜
 PostgreSQL｜DynamoDB｜ mongoDB ｜ Redis
 
 ## BI
@@ -53,7 +53,7 @@ CostExplorer ｜ CloudTrail
 
 Dataplex | VPC ｜ GCS ｜ CloudFunctions 
 CloudSQL ｜ BigQuery ｜ Dataflow ｜ Composer｜
-Stackdriver ｜ Firebase ｜ CloudRun
+Stackdriver ｜ Firebase ｜ Cloud Run functions
 
 ### Azure
 
@@ -69,7 +69,7 @@ Analytics Cloud ｜ Datawarehouse ｜ Data Provisioning Agent
 ### SaaS/PaaS
 
 GitHub ｜ GitHub Actions ｜ BitBucket ｜ Heroku ｜ Hasura｜
-Tableau Server/Online | Supabase
+Tableau Server/Online｜Vercel｜Supabase
 
 ## Certifications
 
