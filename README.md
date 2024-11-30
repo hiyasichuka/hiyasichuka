@@ -17,6 +17,7 @@ Bootstrap｜Tailwind CSS｜shadcn/ui｜
 React.js ｜ Next.js ｜ .NET Framework｜
 Fasitify ｜ Express｜FastAPI｜
 OpenAPI｜Prisma｜TypeORM｜Postgrest｜
+Airflow｜Embulk｜Digdag
 Xamarin.forms
 
 ## Test CICD etc.
@@ -69,7 +70,7 @@ Analytics Cloud ｜ Datawarehouse ｜ Data Provisioning Agent
 ### SaaS/PaaS
 
 GitHub ｜ GitHub Actions ｜ BitBucket ｜ Heroku ｜ Hasura｜
-Tableau Server/Online｜Vercel｜Supabase
+Tableau Server｜Tableau Online｜Vercel｜Supabase
 
 ## Certifications
 
