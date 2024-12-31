@@ -22,9 +22,11 @@ Xamarin.forms
 
 ## Test CICD etc.
 
-Biome | ESLint｜Prettier｜pep8｜black｜
+sqruff｜SQLFluff｜
+Biome｜ESLint｜Prettier｜pep8｜black｜
 jest｜pytest｜
-GitHub Actions ｜ Circle CI
+GitHub Actions ｜ Circle CI ｜ 
+
 
 ## DataStore etc.
 
@@ -52,7 +54,7 @@ CostExplorer ｜ CloudTrail
 
 ### GCP
 
-Dataplex | VPC ｜ GCS ｜ CloudFunctions 
+Dataplex｜VPC ｜ GCS ｜ CloudFunctions 
 CloudSQL ｜ BigQuery ｜ Dataflow ｜ Composer｜
 Stackdriver ｜ Firebase ｜ Cloud Run functions
 
@@ -74,11 +76,11 @@ Tableau Server｜Tableau Online｜Vercel｜Supabase
 
 ## Certifications
 
-基本情報技術者 ｜ 応用情報技術者 ｜ TOEIC 815｜
+TOEIC 815｜基本情報技術者 ｜ 応用情報技術者 ｜
 技術士補（情報工学）｜ Licenced Scrum Master｜
 Licenced Scrum Product Owner｜
-GoogleCloud Professional Data Engineer｜
-GoogleCloud Professional Cloud Developer｜
+Google Cloud Professional Data Engineer｜
+Google Cloud Professional Cloud Developer｜
 AWS Solutions Architect - Associate｜
 AWS Developer - Associate｜
 AWS SysOps Administrator - Associate
