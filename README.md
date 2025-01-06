@@ -35,7 +35,7 @@ PostgreSQL｜DynamoDB｜ mongoDB ｜ Redis
 
 ## BI
 
-Tableau｜QuickSight｜Looker
+Tableau｜QuickSight｜Looker｜Looker Studio
 
 ## Machine learning etc.
 
