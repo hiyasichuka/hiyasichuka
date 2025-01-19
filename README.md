@@ -22,7 +22,7 @@ Xamarin.forms
 
 ## Test CICD etc.
 
-Selenium ｜ Playwright ｜ browser-use
+Selenium ｜ Playwright ｜ browser-use ｜ 
 sqruff｜SQLFluff｜
 Biome｜ESLint｜Prettier｜pep8｜black｜
 jest｜pytest｜
@@ -40,14 +40,14 @@ Tableau｜QuickSight｜Looker｜Looker Studio
 
 ## Machine learning etc.
 
-Dify Cloud ｜ Tensorflow ｜ Keras ｜ Pytorch ｜ OpenCV｜
+Dify Cloud ｜ Tensorflow ｜ Keras ｜ Pytorch ｜ OpenCV ｜ 
 Optuna｜CUDA ｜ cuDNN
 
 ## Infrastructure
 
 ### AWS
 
-VPC ｜ S3 ｜ EBS ｜ EFS ｜API Gateway ｜ Lambda ｜ ELB｜
+VPC ｜ S3 ｜ EBS ｜ EFS ｜API Gateway ｜ Lambda ｜ ELB ｜ 
 EC2 ｜ ECS ｜ Fargate ｜ IAM ｜ Cognito｜ECR | CodeBuild
 CoudWatch ｜ AppRunner｜
 CostExplorer ｜ CloudTrail
@@ -56,13 +56,13 @@ CostExplorer ｜ CloudTrail
 ### GCP
 
 Dataform｜Dataplex｜VPC ｜ GCS ｜ Cloud Functions 
-CloudSQL ｜ BigQuery ｜ Dataflow ｜ Composer｜
+CloudSQL ｜ BigQuery ｜ Dataflow ｜ Composer ｜
 Stackdriver ｜ Firebase ｜ Cloud Run functions
 
 ### Azure
 
-VPC ｜ BlobStorage ｜ Repos ｜ Monitor｜
-Azure SQL Database ｜ Azure AD｜
+VPC ｜ BlobStorage ｜ Repos ｜ Monitor ｜
+Azure SQL Database ｜ Azure AD ｜
 Azure Pipline ｜ Container Apps ｜ AppService
 
 ### SAP
@@ -72,18 +72,18 @@ Analytics Cloud ｜ Datawarehouse ｜ Data Provisioning Agent
 
 ### SaaS/PaaS
 
-GitHub ｜ GitHub Actions ｜ BitBucket ｜ Heroku ｜ Hasura｜
+GitHub ｜ GitHub Actions ｜ BitBucket ｜ Heroku ｜ Hasura ｜
 Tableau Server｜Tableau Online｜Vercel｜Supabase
 
 ## Certifications
 
 TOEIC 815｜基本情報技術者 ｜ 応用情報技術者 ｜
-技術士補（情報工学）｜ Licenced Scrum Master｜
-Licenced Scrum Product Owner｜
-Google Cloud Professional Data Engineer｜
-Google Cloud Professional Cloud Developer｜
-AWS Solutions Architect - Associate｜
-AWS Developer - Associate｜
+技術士補（情報工学）｜ Licenced Scrum Master ｜
+Licenced Scrum Product Owner ｜
+Google Cloud Professional Data Engineer ｜
+Google Cloud Professional Cloud Developer ｜
+AWS Solutions Architect - Associate ｜
+AWS Developer - Associate ｜
 AWS SysOps Administrator - Associate
 
 ## Others
