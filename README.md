@@ -22,6 +22,7 @@ Xamarin.forms
 
 ## Test CICD etc.
 
+Selenium ｜ Playwright ｜ browser-use
 sqruff｜SQLFluff｜
 Biome｜ESLint｜Prettier｜pep8｜black｜
 jest｜pytest｜
