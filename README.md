@@ -17,7 +17,7 @@ Bootstrap｜Tailwind CSS｜shadcn/ui｜
 React.js ｜ Next.js ｜ .NET Framework｜
 Fasitify ｜ Express｜FastAPI｜
 OpenAPI｜Prisma｜TypeORM｜Postgrest｜
-Airflow｜Embulk｜Digdag
+Airflow｜Embulk｜Digdag｜
 Xamarin.forms
 
 ## Test CICD etc.
