@@ -102,11 +102,11 @@ Google Analytics
 
 # 🐸 Qiita Stats
  
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/hiyasichuka/posts.svg)](http://qiita.com/hiyasichuka) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hiyasichuka/contributions.svg)](http://qiita.com/hiyasichuka) [![My Qiita followers](https://qiita-badge.apiapi.app/s/hiyasichuka/followers.svg)](http://qiita.com/hiyasichuka)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/takaha4k/posts.svg)](http://qiita.com/takaha4k) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/takaha4k/contributions.svg)](http://qiita.com/takaha4k) [![My Qiita followers](https://qiita-badge.apiapi.app/s/takaha4k/followers.svg)](http://qiita.com/takaha4k)
 
 # 📊 GitHub Stats
 
-[![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/takaha4k/hiyasichuka/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  
