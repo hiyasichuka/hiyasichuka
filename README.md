@@ -48,7 +48,7 @@ Optuna｜CUDA ｜ cuDNN
 ### AWS
 
 VPC ｜ S3 ｜ EBS ｜ EFS ｜API Gateway ｜ Lambda ｜ ELB ｜ 
-EC2 ｜ ECS ｜ Fargate ｜ IAM ｜ Cognito｜ECR | CodeBuild
+EC2 ｜ ECS ｜ Fargate ｜ IAM ｜ Cognito｜ECR | CodeBuild ｜ 
 CoudWatch ｜ AppRunner｜
 CostExplorer ｜ CloudTrail
 
