@@ -55,7 +55,7 @@ CostExplorer ｜ CloudTrail
 
 ### GCP
 
-Dataform｜Dataplex｜VPC ｜ GCS ｜ Cloud Functions 
+Dataform｜Dataplex｜VPC ｜ GCS ｜ Cloud Functions ｜
 CloudSQL ｜ BigQuery ｜ Dataflow ｜ Composer ｜
 Stackdriver ｜ Firebase ｜ Cloud Run functions
 
