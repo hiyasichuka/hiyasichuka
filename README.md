@@ -107,8 +107,10 @@ Google Analytics
 [![Likes](https://badgen.org/img/zenn/takaha4k/likes?style=plastic)](https://zenn.dev/takaha4k) [![Articles](https://badgen.org/img/zenn/takaha4k/articles?style=plastic)](https://zenn.dev/takaha4k) [![Scraps](https://badgen.org/img/zenn/takaha4k/scraps?style=plastic)](https://zenn.dev/takaha4k?tab=scraps)
 
 # 🐸 Qiita Stats
- 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/takaha4k/posts.svg)](http://qiita.com/takaha4k) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/takaha4k/contributions.svg)](http://qiita.com/takaha4k) [![My Qiita followers](https://qiita-badge.apiapi.app/s/takaha4k/followers.svg)](http://qiita.com/takaha4k)
+
+[![Contributions](https://badgen.org/img/qiita/takaha4k/contributions?style=plastic)](https://qiita.com/takaha4k)
+[![Articles](https://badgen.org/img/qiita/takaha4k/articles?style=plastic)](https://qiita.com/takaha4k)
+[![Followers](https://badgen.org/img/qiita/takaha4k/followers?style=plastic)](https://qiita.com/takaha4k)
 
 # 📊 GitHub Stats
 
