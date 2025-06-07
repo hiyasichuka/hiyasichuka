@@ -1,4 +1,10 @@
+# 👣 Access
+
+<div align="center"> <img src="https://profile-counter.glitch.me/Gt/count.svg?"  /> </div>
+
+
 # 🐍 GitHub Snake
+
 ![GitHub Snake Light](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
@@ -101,8 +107,10 @@ Google Analytics
 [![Likes](https://badgen.org/img/zenn/takaha4k/likes?style=plastic)](https://zenn.dev/takaha4k) [![Articles](https://badgen.org/img/zenn/takaha4k/articles?style=plastic)](https://zenn.dev/takaha4k) [![Scraps](https://badgen.org/img/zenn/takaha4k/scraps?style=plastic)](https://zenn.dev/takaha4k?tab=scraps)
 
 # 🐸 Qiita Stats
- 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/takaha4k/posts.svg)](http://qiita.com/takaha4k) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/takaha4k/contributions.svg)](http://qiita.com/takaha4k) [![My Qiita followers](https://qiita-badge.apiapi.app/s/takaha4k/followers.svg)](http://qiita.com/takaha4k)
+
+[![Contributions](https://badgen.org/img/qiita/takaha4k/contributions?style=plastic)](https://qiita.com/takaha4k)
+[![Articles](https://badgen.org/img/qiita/takaha4k/articles?style=plastic)](https://qiita.com/takaha4k)
+[![Followers](https://badgen.org/img/qiita/takaha4k/followers?style=plastic)](https://qiita.com/takaha4k)
 
 # 📊 GitHub Stats
 
@@ -119,9 +127,3 @@ Google Analytics
  <a href="https://www.linkedin.com/in/takaha4k/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hiyasichukahajimemasita@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
----
-
-# 👣 Access:
-
-<div align="center"> <img src="https://profile-counter.glitch.me/Gt/count.svg?"  /> </div>
