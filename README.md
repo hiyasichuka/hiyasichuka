@@ -1,4 +1,10 @@
+# 👣 Access
+
+<div align="center"> <img src="https://profile-counter.glitch.me/Gt/count.svg?"  /> </div>
+
+
 # 🐍 GitHub Snake
+
 ![GitHub Snake Light](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
@@ -119,9 +125,3 @@ Google Analytics
  <a href="https://www.linkedin.com/in/takaha4k/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hiyasichukahajimemasita@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
----
-
-# 👣 Access:
-
-<div align="center"> <img src="https://profile-counter.glitch.me/Gt/count.svg?"  /> </div>
