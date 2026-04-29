@@ -12,8 +12,6 @@
 
 # 💻 Tech Stack
 
-# 💻 Tech Stack
-
 ## 🧠 Core Strengths
 - Data Platform Engineering（BigQuery / Airflow / Dataplex）
 - Event-driven / Real-time Data Pipeline
