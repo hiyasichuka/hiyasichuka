@@ -12,95 +12,139 @@
 
 # 💻 Tech Stack
 
-## Programming Languages
+## 🧠 Core Strengths
+- Data Platform Engineering（BigQuery / Airflow / Dataplex）
+- Event-driven / Real-time Data Pipeline
+- Cloud & IaC（Terraform / Terragrunt / tfcmt）
+- Platform Engineering（CI/CD / Identity / DevEx）
+- Developer Productivity（CI/CD最適化 / ワークフロー設計）
 
-TypeScript ｜ JavaScript ｜ Python｜
-Kotolin ｜ VB.NET ｜ VBA ｜ C# ｜ Java｜
-Flutter ｜ Google Apps Script
+## ☁️ Cloud & Platform Engineering
 
-## Library etc.
+### Google Cloud（Primary）
 
-Vue.js 2x 3x ｜ Nuxt.js 2x 3x ｜ NestJS 7x 8x 9x｜
-Bootstrap｜Tailwind CSS｜shadcn/ui｜
-React.js ｜ Next.js ｜ .NET Framework｜
-Fasitify ｜ Express｜FastAPI｜
-OpenAPI｜Prisma｜TypeORM｜Postgrest｜
-Airflow｜Embulk｜Digdag｜
-Xamarin.forms
+#### 🏗 Data Platform
+- BigQuery（DWH / Data Mart）
+- Dataflow（Batch / Streaming）
+- Pub/Sub（Event-driven）
+- Cloud Composer（Airflow）
 
-## Test CICD etc.
+#### 🧩 Data Governance / Modeling
+- Dataplex（メタデータ / ガバナンス）
+- Dataform / dbt（データ変換 / モデリング）
 
-Selenium ｜ Playwright ｜ browser-use ｜ 
-sqruff｜SQLFluff｜
-Biome｜ESLint｜Prettier｜pep8｜black｜
-jest｜pytest｜
-GitHub Actions ｜ Circle CI ｜ 
+#### ⚙️ Compute / Application
+- Cloud Functions
+- Cloud Run
 
+#### 🗄 Storage / Network
+- GCS
+- VPC
 
-## DataStore etc.
+#### 🔐 Identity / Security / Governance
+- IAM設計 / 最小権限設計（Least Privilege）
+- Privileged Access Manager（PAM）
+- Workload Identity Federation（OIDC）
+- Service Account Impersonation
+- Audit Logging / Access Control
 
-BigQuery｜Oracle ｜ SQL Server ｜ MySQL｜
-PostgreSQL｜DynamoDB｜ mongoDB ｜ Redis
+#### 🔄 CI/CD / DevOps
+- Cloud Build（Private Pool）
+- GitHub Actions（OIDC連携）
 
-## BI
+#### 📊 Observability
+- Cloud Monitoring / Logging
+- Alert設計（BigQuery / Data Pipeline）
 
-Tableau｜QuickSight｜Looker｜Looker Studio
+### AWS（Secondary）
+- ECS / Fargate / Lambda / API Gateway
+- S3 / IAM / Cognito / CloudWatch
 
-## Machine learning etc.
+### Azure（Secondary）
+- App Service / Container Apps
+- Azure SQL Database
+- Azure AD / Monitor
 
-Dify Cloud ｜ Tensorflow ｜ Keras ｜ Pytorch ｜ OpenCV ｜ 
-Optuna｜CUDA ｜ cuDNN
+## 🏗 Data Platform
+- BigQuery / Dataflow / Pub/Sub
+- Airflow（Cloud Composer）
+- Embulk / Digdag
+- dbt / Dataform
+- Data Mart / Star Schema設計
+- Event-driven Data Pipeline
+- Data Quality / Data Governance
 
-## Infrastructure
+## 🔄 CI/CD・Platform Engineering
+- GitHub Actions（Reusable Workflows / Composite Actions）
+- Terraform / Terragrunt / tfcmt
+- Cloud Build（Private Pool）
+- CircleCI
+- Policy as Code（OPA / Sentinel など）
 
-### AWS
+## 🔐 Security / Identity
+- IAM設計（Role設計 / 権限分離）
+- PAM（Just-in-timeアクセス管理）
+- OIDC（Workload Identity Federation）
+- Service Account Impersonation
+- Audit / Access Control設計
 
-VPC ｜ S3 ｜ EBS ｜ EFS ｜API Gateway ｜ Lambda ｜ ELB ｜ 
-EC2 ｜ ECS ｜ Fargate ｜ IAM ｜ Cognito｜ECR | CodeBuild ｜ 
-CoudWatch ｜ AppRunner｜
-CostExplorer ｜ CloudTrail
+## 📊 Data / Storage
+- BigQuery（Primary）
+- PostgreSQL / MySQL / SQL Server / Oracle
+- DynamoDB / MongoDB / Redis
 
+## 🏗 Backend
+- Python（FastAPI / Airflow）
+- TypeScript / JavaScript（Node.js / NestJS / Express / Fastify）
+- C# / VB.NET / Java
 
-### GCP
+## 🎨 Frontend
+- React / Next.js
+- Vue.js / Nuxt.js
+- Tailwind CSS / Bootstrap / shadcn/ui
+- Flutter / Xamarin
 
-Dataform｜Dataplex｜VPC ｜ GCS ｜ Cloud Functions ｜
-CloudSQL ｜ BigQuery ｜ Dataflow ｜ Composer ｜
-Stackdriver ｜ Firebase ｜ Cloud Run functions
+## 🤖 AI / Machine Learning
+- Vertex AI（Model Garden）
+- Claude / LLM Agent（MCP / ADK）
+- Dify
+- TensorFlow / PyTorch / Keras
+- OpenCV / Optuna
 
-### Azure
+## 🧪 Testing / Quality
+- pytest / jest
+- Playwright / Selenium
+- SQLFluff / sqruff
+- ESLint / Biome / Prettier / black
 
-VPC ｜ BlobStorage ｜ Repos ｜ Monitor ｜
-Azure SQL Database ｜ Azure AD ｜
-Azure Pipline ｜ Container Apps ｜ AppService
+## 📦 Container / Infra
+- Docker / Kubernetes / OpenShift
+- nginx / IIS / Tomcat
 
-### SAP
+## 🧰 SaaS / Tools
+- GitHub / Bitbucket
+- Vercel / Supabase / Heroku
+- Tableau Server / Online
 
-Analytics Cloud ｜ Datawarehouse ｜ Data Provisioning Agent
+## 📊 BI
+- Looker / Looker Studio
+- Tableau
+- QuickSight
 
+## 🎓 Certifications
+- TOEIC 815
+- 基本情報技術者 / 応用情報技術者
+- 技術士補（情報工学）
+- LSM / LSPO
+- Google Cloud Professional Data Engineer
+- Google Cloud Professional Cloud Developer
+- AWS Solutions Architect - Associate
+- AWS Developer - Associate
+- AWS SysOps Administrator - Associate
 
-### SaaS/PaaS
-
-GitHub ｜ GitHub Actions ｜ BitBucket ｜ Heroku ｜ Hasura ｜
-Tableau Server｜Tableau Online｜Vercel｜Supabase
-
-## Certifications
-
-TOEIC 815｜基本情報技術者 ｜ 応用情報技術者 ｜
-技術士補（情報工学）｜ Licenced Scrum Master ｜
-Licenced Scrum Product Owner ｜
-Google Cloud Professional Data Engineer ｜
-Google Cloud Professional Cloud Developer ｜
-AWS Solutions Architect - Associate ｜
-AWS Developer - Associate ｜
-AWS SysOps Administrator - Associate
-
-## Others
-
-WordPress ｜ nginx ｜ IIS ｜ Tomcat｜
-Docker ｜ Docker Swarm ｜ kubernetes｜OpenShift｜
-Ghost Content API ｜ Streamlit ｜ OpenCV｜
-Google Analytics
-
+## 📝 Others
+- WordPress
+- Google Analytics
 
 
 # <img src="https://github.com/hiyasichuka/hiyasichuka/assets/52185395/be0623c6-f4f9-4384-b5b9-9fb113f01257" width="3%"> Zenn Stats:
