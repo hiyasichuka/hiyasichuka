@@ -12,12 +12,15 @@
 
 # 💻 Tech Stack
 
+# 💻 Tech Stack
+
 ## 🧠 Core Strengths
 - Data Platform Engineering（BigQuery / Airflow / Dataplex）
 - Event-driven / Real-time Data Pipeline
 - Cloud & IaC（Terraform / Terragrunt / tfcmt）
 - Platform Engineering（CI/CD / Identity / DevEx）
 - Developer Productivity（CI/CD最適化 / ワークフロー設計）
+- Multi-Cloud Architecture（GCP / AWS）
 
 ## ☁️ Cloud & Platform Engineering
 
@@ -27,26 +30,28 @@
 - BigQuery（DWH / Data Mart）
 - Dataflow（Batch / Streaming）
 - Pub/Sub（Event-driven）
+- Datastream（CDC / リアルタイム連携）
 - Cloud Composer（Airflow）
 
 #### 🧩 Data Governance / Modeling
-- Dataplex（メタデータ / ガバナンス）
+- Dataplex（メタデータ / ガバナンス / Lineage）
 - Dataform / dbt（データ変換 / モデリング）
 
 #### ⚙️ Compute / Application
-- Cloud Functions
-- Cloud Run
+- Cloud Run Functions
+- Cloud Run jobs
+- Conpute Engine
 
 #### 🗄 Storage / Network
 - GCS
+- Firestore
 - VPC
 
 #### 🔐 Identity / Security / Governance
-- IAM設計 / 最小権限設計（Least Privilege）
 - Privileged Access Manager（PAM）
 - Workload Identity Federation（OIDC）
-- Service Account Impersonation
 - Audit Logging / Access Control
+- VPC Service Controls（データ境界保護）
 
 #### 🔄 CI/CD / DevOps
 - Cloud Build（Private Pool）
@@ -54,11 +59,40 @@
 
 #### 📊 Observability
 - Cloud Monitoring / Logging
-- Alert設計（BigQuery / Data Pipeline）
+- Alert設計
 
 ### AWS（Secondary）
-- ECS / Fargate / Lambda / API Gateway
-- S3 / IAM / Cognito / CloudWatch
+
+#### ⚙️ Compute / Application
+- ECS / Fargate（コンテナアプリケーション）
+- Lambda
+- EC2
+- App Runner
+
+#### 🌐 Networking / Delivery
+- VPC
+- ELB（ALB / NLB）
+- API Gateway
+- CloudFront（CDN）
+
+#### 🗄 Storage / Database
+- S3
+- EBS / EFS
+
+#### 🔐 Identity / Security
+- IAM
+- Cognito
+
+#### 📞 Communication / SaaS
+- Amazon Connect
+
+#### 🔄 CI/CD / DevOps
+- CodeBuild
+
+#### 📊 Observability
+- CloudWatch
+- CloudTrail
+- Cost Explorer
 
 ### Azure（Secondary）
 - App Service / Container Apps
@@ -66,13 +100,33 @@
 - Azure AD / Monitor
 
 ## 🏗 Data Platform
-- BigQuery / Dataflow / Pub/Sub
+
+### 🔄 Data Ingestion / Streaming
+- Datastream（CDC / リアルタイム連携）
+- Pub/Sub（イベント駆動）
+- Dataflow（Batch / Streaming）
+- Workflows
+- dlt（データロード / ELTパイプライン）
+
+### 🏗 Data Processing / Orchestration
+- BigQuery（DWH / Data Mart）
 - Airflow（Cloud Composer）
 - Embulk / Digdag
+
+### 🧩 Data Modeling / Transformation
 - dbt / Dataform
-- Data Mart / Star Schema設計
-- Event-driven Data Pipeline
+
+### 🛡 Data Governance / Security
+- Dataplex（メタデータ / ガバナンス）
 - Data Quality / Data Governance
+- Data Contract（スキーマ契約 / データ責務定義）
+- Data Lineage（データフロー可視化 / 影響範囲分析）
+- VPC Service Controls（データ境界 / セキュリティ）
+
+### ⚡ Architecture
+- Event-driven Data Pipeline
+- Real-time / Near Real-time Analytics
+- Data Mesh（思想レベル含む）
 
 ## 🔄 CI/CD・Platform Engineering
 - GitHub Actions（Reusable Workflows / Composite Actions）
