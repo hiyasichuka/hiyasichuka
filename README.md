@@ -31,10 +31,6 @@
 - Datastream（CDC / リアルタイム連携）
 - Cloud Composer（Airflow）
 
-#### 🧩 Data Governance / Modeling
-- Dataplex（メタデータ / ガバナンス / Lineage）
-- Dataform / dbt（データ変換 / モデリング）
-
 #### ⚙️ Compute / Application
 - Cloud Run Functions
 - Cloud Run jobs
@@ -49,7 +45,7 @@
 - Privileged Access Manager（PAM）
 - Workload Identity Federation（OIDC）
 - Audit Logging / Access Control
-- VPC Service Controls（データ境界保護）
+- VPC Service Controls
 
 #### 🔄 CI/CD / DevOps
 - Cloud Build（Private Pool）
@@ -113,18 +109,6 @@
 
 ### 🧩 Data Modeling / Transformation
 - dbt / Dataform
-
-### 🛡 Data Governance / Security
-- Dataplex（メタデータ / ガバナンス）
-- Data Quality / Data Governance
-- Data Contract（スキーマ契約 / データ責務定義）
-- Data Lineage（データフロー可視化 / 影響範囲分析）
-- VPC Service Controls（データ境界 / セキュリティ）
-
-### ⚡ Architecture
-- Event-driven Data Pipeline
-- Real-time / Near Real-time Analytics
-- Data Mesh（思想レベル含む）
 
 ## 🔄 CI/CD・Platform Engineering
 - GitHub Actions（Reusable Workflows / Composite Actions）
