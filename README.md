@@ -9,131 +9,47 @@
 
 ---
 
-## 🧠 Core Strengths
+## 🛠️ Tech Stack
 
-- **Data Platform Engineering** — BigQuery / Airflow / Datastream / dbt を用いたデータ基盤の設計・構築・運用
-- **Event-driven & Real-time Pipeline** — Pub/Sub / Dataflow / CDC によるストリーミング処理
-- **AI / LLM Agent Engineering** — Vertex AI / Claude / MCP / ADK を活用した AI エージェント開発
-- **Cloud & IaC** — Terraform / Terragrunt / tfcmt によるマルチクラウド管理
-- **Platform Engineering** — CI/CD 最適化 / OIDC / Developer Experience 向上
+### 📊 データ基盤・データエンジニアリング
 
----
+Google Cloudを中心とした全社データ基盤の設計・開発・運用を経験しています。AWSからGoogle Cloudへの移行、データパイプラインの設計、DWHの性能・コスト改善、BI環境の整備に加え、認証・ネットワークを含む基盤全体の再構築にも携わってきました。
 
-## 🏗 Data Platform
+**主な技術：** BigQuery、Cloud Composer / Airflow、Datastream、Dataflow、Dataform、Dataplex、dbt、Embulk、Digdag、Looker、Looker Studio、Tableau、QuickSight
 
-| Layer | Technologies |
-|-------|-------------|
-| **Ingestion / Streaming** | Datastream（CDC）, Pub/Sub, Dataflow, dlt, Workflows |
-| **Processing / DWH** | BigQuery, Cloud Composer（Airflow）, Embulk / Digdag |
-| **Modeling / Transform** | dbt, Dataform |
-| **BI / Visualization** | Looker, Looker Studio, Tableau, QuickSight |
+### ☁️ クラウド・インフラ・アーキテクチャ
 
-## 🤖 AI / Machine Learning
+AWS、Google Cloud、Azureを利用したシステム・クラウド基盤の設計・構築を経験しています。ネットワーク、コンピュート、ストレージ、IAM、コンテナ、監視を組み合わせたアーキテクチャ設計に加え、TerraformによるInfrastructure as Codeにも取り組んできました。
 
-| Category | Technologies |
-|----------|-------------|
-| **LLM / Agent** | Vertex AI（Model Garden）, Claude（MCP / ADK）, Dify |
-| **ML Framework** | TensorFlow, PyTorch, Keras, Optuna |
-| **Vision** | OpenCV |
+**主な技術：** Google Cloud、AWS、Azure、Terraform、Docker、Kubernetes、OpenShift、Cloud Run、ECS / Fargate、Lambda、Cloud Functions、VPC、IAM
 
----
+### 💻 アプリケーション・Web開発
 
-## ☁️ Cloud
+工場向け業務システムから社内Webサービス、新規サービス、データ基盤関連ツールまで、フロントエンド・バックエンド双方の開発を経験しています。要件整理、アーキテクチャ設計、API・データモデル設計、実装、テスト、本番導入まで一貫して担当してきました。
 
-### Google Cloud（Primary）
+**主な技術：** Python、TypeScript、JavaScript、C#、Java、Kotlin、Flutter、Vue.js / Nuxt.js、React / Next.js、NestJS、Fastify、Express、FastAPI、.NET Framework
 
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Cloud Build](https://img.shields.io/badge/Cloud%20Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+### 🔄 CI/CD・開発生産性
 
-- **Data**: BigQuery / Dataflow / Pub/Sub / Datastream / Cloud Composer
-- **Compute**: Cloud Run（Functions / Jobs）/ Compute Engine
-- **Security**: PAM / Workload Identity Federation / VPC Service Controls
-- **DevOps**: Cloud Build（Private Pool）/ GitHub Actions（OIDC連携）
+GitHub Actions、CircleCI、Cloud Buildを利用したCI/CDの設計・運用を経験しています。コードレビュー、静的解析、自動テスト、Infrastructure as Codeを組み合わせ、開発から本番リリースまでの自動化・標準化を行ってきました。
 
-### AWS（Secondary）
+**主な技術：** GitHub Actions、CircleCI、Cloud Build、GitLab、Playwright、Selenium、pytest、Jest、SQLFluff、Biome、ESLint、Prettier、Black
 
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+### 🗄️ データベース・データストア
 
-- **Compute**: ECS / Fargate / Lambda / App Runner
-- **Network**: VPC / ELB / API Gateway / CloudFront
-- **Other**: Amazon Connect / CodeBuild / CloudWatch
+業務システム、Webサービス、データ基盤でRDB・NoSQL双方を利用してきました。アプリケーションのデータモデル設計からDWHの設計・性能改善まで経験しています。
 
-### Azure（Secondary）
+**主な技術：** BigQuery、Oracle、SQL Server、MySQL、PostgreSQL、DynamoDB、MongoDB、Redis
 
-- App Service / Container Apps / Azure SQL Database / Azure AD
+### 🤖 AI・機械学習・LLM
 
----
+製造現場の画像検査では、学習データの整備、画像処理、モデル開発、推論プログラムの実装から実ラインへの導入・運用まで経験しています。近年はVertex AI、Claude、Difyを利用し、LLMを組み込んだデータ活用やエージェント開発にも取り組んでいます。
 
-## 🔄 CI/CD・Platform Engineering
+**主な技術：** TensorFlow、Keras、PyTorch、OpenCV、Optuna、CUDA / cuDNN、Vertex AI、Claude、Dify
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+### 🧩 その他の開発・プラットフォーム経験
 
-- GitHub Actions（Reusable Workflows / Composite Actions）
-- Terraform / Terragrunt / tfcmt
-- Cloud Build（Private Pool）/ CircleCI
-- Policy as Code（OPA / Sentinel）
-- Docker / Kubernetes / OpenShift
-
----
-
-## 🔐 Security / Identity
-
-- IAM 設計（Role 設計 / 権限分離）
-- PAM
-- OIDC（Workload Identity Federation）
-- Service Account Impersonation
-- Audit / Access Control 設計
-
----
-
-## 🏗 Backend & Frontend
-
-### Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-
-- Python（FastAPI / Airflow）
-- TypeScript / JavaScript（Node.js / NestJS / Express / Fastify）
-- C# / Java
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-- React / Next.js
-- Vue.js / Nuxt.js
-- Tailwind CSS / shadcn/ui
-- Flutter
-
----
-
-## 🧪 Testing / Quality
-
-- pytest / jest / Playwright / Selenium
-- SQLFluff / sqruff / ESLint / Biome / Prettier / black
-
----
-
-## 📊 Data / Storage
-
-- **Primary**: BigQuery
-- **RDBMS**: PostgreSQL / MySQL / SQL Server / Oracle
-- **NoSQL**: DynamoDB / MongoDB / Redis
+SAP Analytics Cloud、SAP Data Warehouse、Firebase、Supabase、Hasura、Heroku、Vercel、Tableau Serverなど、案件に応じてSaaS / PaaSを含む各種プラットフォームを利用してきました。
 
 ---
 
