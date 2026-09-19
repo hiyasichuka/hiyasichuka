@@ -58,12 +58,6 @@ SAP Analytics Cloud、SAP Data Warehouse、Firebase、Supabase、Hasura、Heroku
 <a href="https://qiita.com/takaha4k"><img src="https://badgen.org/img/qiita/takaha4k/contributions?style=plastic" alt="Qiita Contributions" /></a>
 <a href="https://qiita.com/takaha4k"><img src="https://badgen.org/img/qiita/takaha4k/articles?style=plastic" alt="Qiita Articles" /></a>
 
-## GitHub Activity
-
-[![GitHub Profile Details](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Repositories by Language](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Activity Stats](https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ## Contact
 
 <a href="https://x.com/takaha4k"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
