@@ -1,4 +1,17 @@
+<div align="center">
+  <h1>hiyasichuka</h1>
+  <p>Data Engineering · Cloud Infrastructure · AI</p>
+</div>
+
 データ基盤・クラウド基盤を中心に、アプリケーション開発とAI活用まで、設計・開発・運用に携わっています。
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/profile-assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/profile-assets/github-snake.svg" />
+    <img alt="GitHub のコントリビューションをたどるスネークアニメーション" src="https://raw.githubusercontent.com/hiyasichuka/hiyasichuka/profile-assets/github-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ## 技術スタック
 

@@ -1,0 +1,56 @@
+name: GitHub Actions security
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify-lockfile:
+    name: Verify action lockfile
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    env:
+      # renovate: datasource=github-releases depName=github/gh-actions-lock
+      GH_ACTIONS_LOCK_VERSION: v0.4.1
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Install GitHub Actions lock CLI
+        run: gh extension install github/gh-actions-lock --pin "$GH_ACTIONS_LOCK_VERSION"
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Verify locked action dependencies
+        run: gh actions-lock --verify --no-narrow
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+  zizmor:
+    name: Analyze workflow security
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Run zizmor
+        uses: zizmorcore/zizmor-action@45d7276c9ca790aabd705e31ca99c6185c3e76dd # v0.8.1
+        with:
+          # The pinned action includes a hash-verified zizmor release.
+          persona: pedantic
+          advanced-security: false
+          annotations: true

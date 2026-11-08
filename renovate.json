@@ -1,6 +1,15 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
+    "config:best-practices"
+  ],
+  "customManagers": [
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/^\\.github/workflows/.*\\.ya?ml$/"],
+      "matchStrings": [
+        "# renovate: datasource=(?<datasource>github-releases) depName=(?<depName>[^\\s]+)\\s+GH_ACTIONS_LOCK_VERSION: (?<currentValue>v?\\d+\\.\\d+\\.\\d+)"
+      ]
+    }
   ]
 }
