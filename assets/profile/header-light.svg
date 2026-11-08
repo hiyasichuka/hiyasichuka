@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">hiyasichuka — Data Engineering, Cloud Infrastructure, AI</title>
+  <desc id="desc">データ基盤・クラウド基盤・AI の設計、開発、運用。</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#f0f7f4"/><stop offset="1" stop-color="#e2f2eb"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c3dfd0" stroke-width="1" opacity=".4"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#background)"/>
+  <rect x="700" y="20" width="560" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="52" y="50" width="40" height="5" rx="2.5" fill="#047857"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="52" y="102" font-size="18" font-weight="600" letter-spacing="4" fill="#047857">DATA / CLOUD / AI</text>
+    <text x="48" y="191" font-size="78" font-weight="700" letter-spacing="-3" fill="#102a26">hiyasichuka</text>
+    <text x="52" y="244" font-size="25" fill="#47675c">Data Engineering · Cloud Infrastructure · AI</text>
+    <text x="52" y="311" font-size="16" letter-spacing="3" fill="#47675c">DESIGN  /  BUILD  /  OPERATE</text>
+  </g>
+  <g fill="none" stroke="#047857" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M838 182H928M1032 182H1122" opacity=".7"/>
+    <path d="m914 176 7 6-7 6m194-12 7 6-7 6"/>
+    <rect x="744" y="133" width="98" height="98" rx="20" fill="#f7fcf9" stroke="#c3dfd0"/>
+    <rect x="932" y="133" width="98" height="98" rx="20" fill="#f7fcf9" stroke="#c3dfd0"/>
+    <rect x="1124" y="133" width="98" height="98" rx="20" fill="#f7fcf9" stroke="#c3dfd0"/>
+    <ellipse cx="793" cy="166" rx="22" ry="8"/><path d="M771 166v32c0 10 44 10 44 0v-32m-44 16c0 10 44 10 44 0"/>
+    <path d="M959 195h43c20 0 20-29 1-30-7-24-39-21-42 3-17 1-18 27-2 27Z"/>
+    <path d="m1174 158 6 17 17 6-17 6-6 17-6-17-17-6 17-6Zm22-7 3 8 8 3-8 3-3 8-3-8-8-3 8-3Z"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="16" fill="#47675c" text-anchor="middle" letter-spacing="2">
+    <text x="793" y="265">DATA</text><text x="981" y="265">CLOUD</text><text x="1173" y="265">AI</text>
+  </g>
+</svg>
